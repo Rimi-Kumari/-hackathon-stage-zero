@@ -1,7 +1,7 @@
 export function GET() {
   return Response.json({
     status: 'ok',
-    teamId: 'YOUR_TEAM_ID',
+    teamId: 'Usual Suspects',
     message: 'Backend connected successfully!'
   });
 }
